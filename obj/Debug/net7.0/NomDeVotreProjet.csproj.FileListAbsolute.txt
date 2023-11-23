@@ -1,0 +1,15 @@
+C:\Users\antoi\OneDrive\Bureau\Project\Mic\DotnetJsonHttp\JsonHttpAzureOpenAI\bin\Debug\net7.0\NomDeVotreProjet.exe
+C:\Users\antoi\OneDrive\Bureau\Project\Mic\DotnetJsonHttp\JsonHttpAzureOpenAI\bin\Debug\net7.0\NomDeVotreProjet.deps.json
+C:\Users\antoi\OneDrive\Bureau\Project\Mic\DotnetJsonHttp\JsonHttpAzureOpenAI\bin\Debug\net7.0\NomDeVotreProjet.runtimeconfig.json
+C:\Users\antoi\OneDrive\Bureau\Project\Mic\DotnetJsonHttp\JsonHttpAzureOpenAI\bin\Debug\net7.0\NomDeVotreProjet.dll
+C:\Users\antoi\OneDrive\Bureau\Project\Mic\DotnetJsonHttp\JsonHttpAzureOpenAI\bin\Debug\net7.0\NomDeVotreProjet.pdb
+C:\Users\antoi\OneDrive\Bureau\Project\Mic\DotnetJsonHttp\JsonHttpAzureOpenAI\obj\Debug\net7.0\NomDeVotreProjet.csproj.AssemblyReference.cache
+C:\Users\antoi\OneDrive\Bureau\Project\Mic\DotnetJsonHttp\JsonHttpAzureOpenAI\obj\Debug\net7.0\NomDeVotreProjet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antoi\OneDrive\Bureau\Project\Mic\DotnetJsonHttp\JsonHttpAzureOpenAI\obj\Debug\net7.0\NomDeVotreProjet.AssemblyInfoInputs.cache
+C:\Users\antoi\OneDrive\Bureau\Project\Mic\DotnetJsonHttp\JsonHttpAzureOpenAI\obj\Debug\net7.0\NomDeVotreProjet.AssemblyInfo.cs
+C:\Users\antoi\OneDrive\Bureau\Project\Mic\DotnetJsonHttp\JsonHttpAzureOpenAI\obj\Debug\net7.0\NomDeVotreProjet.csproj.CoreCompileInputs.cache
+C:\Users\antoi\OneDrive\Bureau\Project\Mic\DotnetJsonHttp\JsonHttpAzureOpenAI\obj\Debug\net7.0\NomDeVotreProjet.dll
+C:\Users\antoi\OneDrive\Bureau\Project\Mic\DotnetJsonHttp\JsonHttpAzureOpenAI\obj\Debug\net7.0\refint\NomDeVotreProjet.dll
+C:\Users\antoi\OneDrive\Bureau\Project\Mic\DotnetJsonHttp\JsonHttpAzureOpenAI\obj\Debug\net7.0\NomDeVotreProjet.pdb
+C:\Users\antoi\OneDrive\Bureau\Project\Mic\DotnetJsonHttp\JsonHttpAzureOpenAI\obj\Debug\net7.0\NomDeVotreProjet.genruntimeconfig.cache
+C:\Users\antoi\OneDrive\Bureau\Project\Mic\DotnetJsonHttp\JsonHttpAzureOpenAI\obj\Debug\net7.0\ref\NomDeVotreProjet.dll
