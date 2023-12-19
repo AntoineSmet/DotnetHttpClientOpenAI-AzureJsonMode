@@ -1,4 +1,4 @@
-#  Open-AI 🧠
+###  Open-AI 
 
 Model to use : gpt-3.5-turbo-1106 or gpt-4-1106-preview
 
